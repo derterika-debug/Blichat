@@ -1,0 +1,1 @@
+# Blichat release rules
